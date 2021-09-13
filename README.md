@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-🔭 I’m currently working on my Ph.D at the [Molecular Geobiology and Paleobiology Lab, at the Ludwig-Maximilians-Universität München](http://www.palaeontologie.geo.lmu.de/molpal/).
+🔭 I’m currently part of the [Molecular Geobiology and Paleobiology Lab, at the Ludwig-Maximilians-Universität München](http://www.palaeontologie.geo.lmu.de/molpal/).
 
 I am a Marie Skłodowska-Curie fellow at [ITN-IGNITE](http://www.itn-ignite.eu/projects/11573_ksenia-juravel/)
 and students representative in [GIGA](https://www.giga-cos.org/). 
