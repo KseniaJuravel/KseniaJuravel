@@ -8,6 +8,8 @@
 As part of a Marie Skłodowska-Curie fellow at [ITN-IGNITE](http://www.itn-ignite.eu/projects/11573_ksenia-juravel/)
 and past students representative in [GIGA](https://www.giga-cos.org/). 
 
+If you are intreasted in my CV: [Linkedin](linkedin.com/in/ksenia-juravel-594627260)
+
 📫 How to reach me: 
 
 Email: Ksenia.Juravel@mail.huji.ac.il
